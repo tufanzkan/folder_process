@@ -583,7 +583,7 @@ int main()
     char dosyauzanti[250];
     pupcreating();
     
-    printf("Dokuwiki Kocaeli Üniversitesi\n");
+    printf("Dosya Düzenleyici\n");
 back:
     printf(" [1]-Dosya Listele\n [2]-Kelime Ara\n [3]-Etiket Ara\n [4]-Etiket Güncelle\n");
 
